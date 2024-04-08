@@ -1,5 +1,5 @@
 package adder
 
 func Add(numberOne, numberTwo int) int {
-	return numberOne + numberTwo
+	return 2 * (numberOne + numberTwo)
 }
